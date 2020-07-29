@@ -1,0 +1,18 @@
+{
+  "name": "skm-avataars",
+  "version": "0.0.1",
+  "description": "https://github.com/skrumblenetwork/skm-avataars.git",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skrumblenetwork/skm-avataars.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skrumblenetwork/skm-avataars/issues"
+  },
+  "homepage": "https://github.com/skrumblenetwork/skm-avataars#readme",
+  "dependencies": {
+    "sha.js": "^2.4.11"
+  }
+}
